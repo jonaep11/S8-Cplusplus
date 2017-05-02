@@ -6,7 +6,7 @@ Auteurs:
 - Vicente Simon Gomez
 
 
-
+Logiciel
 
 - Usage du logiciel :
   - Fenêtre de démarrage 
