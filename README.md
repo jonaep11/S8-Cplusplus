@@ -2,8 +2,8 @@
 
 Auteurs:
 
-Jon Adrian Esteban
-Vicente Simon Gomez
+- Jon Adrian Esteban
+- Vicente Simon Gomez
 
 
 - Usage du logiciel :
