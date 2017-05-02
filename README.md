@@ -1,5 +1,11 @@
 # S8-Cplusplus
 
+Auteurs:
+
+Jon Adrian Esteban
+Vicente Simon Gomez
+
+
 - Usage du logiciel :
   - Fenêtre de démarrage 
   - Fenêtre du jeu
